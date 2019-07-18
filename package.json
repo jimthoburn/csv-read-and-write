@@ -1,0 +1,15 @@
+{
+  "name": "zip-codes",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "main": "node main.js",
+    "start": "npm run main"
+  },
+  "author": "",
+  "dependencies": {
+    "csv-parse": "^4.4.3",
+    "csv-stringify": "^5.3.0",
+    "mkdirp": "^0.5.1"
+  }
+}
